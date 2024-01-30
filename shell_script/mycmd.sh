@@ -1,0 +1,8 @@
+alias main='cd /home/abari/Main && clear'
+alias workspace='cd /home/abari/Main/Activities/WorkBench && clear'
+alias c_lang='cd /home/abari/Main/Activities/WorkBench/programming_in_c && clear'
+alias p_lang='cd /home/abari/Main/Activities/WorkBench/Python_programming && clear'
+alias pfe='cd /home/abari/Main/Activities/WorkBench/pfe && clear'
+alias archive='cd /home/abari/Main/Archive && clear'
+alias repo='cd /home/abari/Main/repo && clear'
+alias linux_bash='cd /home/abari/Main/Activities/WorkBench/Linux/shell_linux && clear'
