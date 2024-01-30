@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # iTools
 
 ![Untitled](imgs/tools.png)
