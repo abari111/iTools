@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iTools
 
 ![Untitled](imgs/tools.png)
@@ -8,3 +9,4 @@ In this repo you will find scripts to :
 - Automate some tasks
 - Python, bash scripts
 - and other interesting scripts
+
